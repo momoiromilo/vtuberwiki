@@ -4,7 +4,7 @@
 Download and install composer from [here](https://getcomposer.org/download/)
 Install Laravel 8
 '''
-composer create-project laravel/laravel app "8.*"
+composer global require “laravel/installer”.
 '''
 
 From the vtuberwiki folder run 
