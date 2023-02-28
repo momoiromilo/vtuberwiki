@@ -20,4 +20,7 @@ naming convention: dev-<whatever your working on>
 we will merge these branches to develop before main
 
 ### Kanban Board
+go to projects of git hub
+if task is not an issue already fee lfree to make one
+- assign yourself to an issue and move in progress 
 
